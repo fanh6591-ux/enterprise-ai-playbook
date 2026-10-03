@@ -1,0 +1,4 @@
+field_name,description,source,format,unit,nullable,validation_rule,owner,access_level,missing_value_policy
+example_record_id,演示记录标识,演示来源,string,,false,唯一且可追溯,待填写,待填写,待填写
+source_reference,原始资料引用,待填写,string,,false,能够定位到原始资料,待填写,待填写,待填写
+observed_at,记录时间,待填写,ISO-8601,,true,保留原始时间和统一时间口径,待填写,待填写,待填写

@@ -1,0 +1,1 @@
+sample_id,scenario,workflow_version,baseline_method,baseline_total_time_s,ai_preparation_time_s,ai_processing_time_s,human_review_time_s,rework_time_s,output_quality,source_reference,reviewer,notes
